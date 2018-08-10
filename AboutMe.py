@@ -21,3 +21,5 @@ age = datetime.now().year - int(birth_year)
 print("Your age is", age)
 print("If you were a dog, you'd be", age * 7, "!!")
 print("Ha " * 3, end='')
+
+# very simple
